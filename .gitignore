@@ -175,3 +175,5 @@ cython_debug/
 sample/mats/
 logs
 *.ipynb
+.qodo
+*.txt
