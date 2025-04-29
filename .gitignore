@@ -177,3 +177,4 @@ logs
 *.ipynb
 .qodo
 *.txt
+@eaDir

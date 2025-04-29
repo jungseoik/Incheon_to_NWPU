@@ -1,0 +1,2 @@
+EXCLUDE_DIRS = {"@eaDir", 'temp', 'clips' , 'original_json' , "huggingface_benchmarks_original_dataset", "@SynoEAStream",
+                "._.DS_Store" ,".DS_Store" , "Thumbs.db",".qodo" , ".gitignore" , ".s" , ".t" , "sstar.format" , "flipped_gpu_high"}

@@ -6,7 +6,6 @@ LABEL_FOLDER_PATH = "sample/jsons"
 OUTPUT_PATH = "sample/"
 SPLIT_RATIO = [0.9, 0.1, 0.0]
 
-
 if __name__ == "__main__":
     process_dataset(
         image_folder=IMAGE_FOLDER_PATH,
